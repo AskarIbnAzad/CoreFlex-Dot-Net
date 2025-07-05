@@ -2,8 +2,6 @@
 
 **CoreFlex** is a modern, responsive Admin Dashboard template built with Bootstrap 5. It includes both a static HTML version and an ASP.NET Core MVC version, making it ideal for ERP systems, CMS platforms, and enterprise web apps.
 
-![CoreFlex Screenshot](assets/images/ui/card-1.jpg)
-
 ---
 
 ## 🚀 Features
