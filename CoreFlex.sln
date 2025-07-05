@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreFlex", "CoreFlex\CoreFlex.csproj", "{7D897A71-5305-45E8-B100-36C6AC25BEEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D897A71-5305-45E8-B100-36C6AC25BEEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D897A71-5305-45E8-B100-36C6AC25BEEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D897A71-5305-45E8-B100-36C6AC25BEEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D897A71-5305-45E8-B100-36C6AC25BEEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EF2D5A8-5607-4D1F-A353-7C9F02CE34C3}
+	EndGlobalSection
+EndGlobal
